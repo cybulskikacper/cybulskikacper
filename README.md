@@ -15,7 +15,7 @@
 
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybulskikacper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cybulskikacper" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybulskikacper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cybulskikacper" /></p>
 p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybulskikacper&theme=dark" alt="cybulskikacper" /></p>
  </details>
 
