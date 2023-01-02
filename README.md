@@ -3,7 +3,7 @@
  
 - 👨‍💻 I'm a 18 yo frontend developer from Poland 🇵🇱
 - 🐈 I really love **cats**!
-- 💪 In my free time i love to do calisthenics workout and swim. 
+- 💪 In my free time I love to do calisthenics and swim
 - 🌱 I’m currently learning **JavaScript**
 
 
