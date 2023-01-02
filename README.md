@@ -2,7 +2,7 @@
 <h3 align="left">Some stuff about me </h3>
  
 - 👨‍💻 I'm a 18 yo frontend developer from Poland 🇵🇱
-- 🐈 I really love **cats**!
+- 🐈 I love **cats**!
 - 💪 In my free time I love to do calisthenics and swim
 - 🌱 I’m currently learning **JavaScript**
 
