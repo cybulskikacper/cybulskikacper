@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, my name is Kacper</h1>
-<h3 align="left">Some stuff about me :</h3>
+<h3 align="left">Some stuff about me </h3>
+ 
 - 👨‍💻 I'm a 18 yo frontend developer from Poland 🇵🇱
 - 🐈 I really love **cats**!
 - 💪 In my free time i love to do calisthenics workout and swim. 
