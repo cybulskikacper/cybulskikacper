@@ -19,5 +19,9 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cybulskikacper&theme=dark" alt="cybulskikacper" /></p>
  </details>
 
-
+<details><summary><b>📧 Contact me</b></summary>
+    <ul>
+        <li><strong>E-mail: </strong> <code>kacpercybulski@icloud.com</code></li>
+    </ul>
+</details>
 
