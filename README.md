@@ -17,7 +17,7 @@
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybulskikacper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cybulskikacper" /></p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cybulskikacper&theme=dark" alt="cybulskikacper" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cybulskikacper&label=Profile%20views&color=0e75b6&style=plastic" alt="cybulskikacper" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cybulskikacper&label=Profile%20views&color=0e75b6&style=plastic" alt="cybulskikacper" /> </p>
  </details>
  
  
