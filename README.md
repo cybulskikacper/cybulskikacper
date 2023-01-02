@@ -5,8 +5,9 @@
 - 🐈 I love **cats**!
 - 💪 In my free time I love to do calisthenics and swim
 - 🌱 I’m currently learning **JavaScript**
-
+## Stack I feel comfortable wtih
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev)
+
 
 
 
