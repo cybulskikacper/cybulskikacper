@@ -1,4 +1,4 @@
-<p> Hey, my name is Kacper im 18yo frontend developer from Poland! 🇵🇱</p>
+<h1 align="center">Hi 👋, my name is Kacper</h1>
 
 - 🌱 I’m currently learning **JavaScript**
 
