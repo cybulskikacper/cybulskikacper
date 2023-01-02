@@ -6,7 +6,7 @@
 - 💪 In my free time I love to do calisthenics and swim
 - 🌱 I’m currently learning **JavaScript**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev)
 
 
 
