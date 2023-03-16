@@ -5,7 +5,7 @@
 - 💪 In my free time I love to do calisthenics and swim
 - 🌱 I’m currently learning **JavaScript**
 - 🤩 My long-term goal is to land job as a **Frontend Developer**  
-	<sub>Hope I will make it in 2024 or even 2023 😅</sub>
+	<sub>Hope I will make it in 2024 or even in 2023 😅</sub>
 
 ## Stack I feel comfortable wtih
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git)](https://skillicons.dev)
