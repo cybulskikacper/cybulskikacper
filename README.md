@@ -14,6 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,)](https://skillicons.dev)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=cybulskikacper&theme=dark)](https://git.io/streak-stats)
 
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary
