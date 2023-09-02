@@ -19,8 +19,7 @@
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary
  
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cybulskikacper&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cybulskikacper&theme=tokyonight)](https://git.io/streak-stats)
 
 
  </details>
