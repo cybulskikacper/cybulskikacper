@@ -14,13 +14,13 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,)](https://skillicons.dev)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cybulskikacper&theme=dark)](https://git.io/streak-stats)
+
 
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary
  
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybulskikacper&show_icons=true&theme=tokyonight&locale=en" alt="cybulskikacper" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=cybulskikacper&theme=dark)](https://git.io/streak-stats)
 
 
  </details>
