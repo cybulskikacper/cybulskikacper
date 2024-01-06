@@ -8,7 +8,7 @@
 	<sub>Hope I will make it in 2024 😅</sub>
 
 ## Stack I feel comfortable wtih
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,ts,git)](https://skillicons.dev)
 
 ## Stuff I want to learn in the future
 [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,)](https://skillicons.dev)
