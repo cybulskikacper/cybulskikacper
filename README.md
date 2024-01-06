@@ -10,12 +10,6 @@
 ## Stack I feel comfortable wtih
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,ts,git)](https://skillicons.dev)
 
-## Stuff I want to learn in the future
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,)](https://skillicons.dev)
-
-
-
-
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary
  
